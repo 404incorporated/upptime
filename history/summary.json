@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 278,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/ganymede-a2.boh.404inc.org",
     "slug": "ganymede-a2-boh",
     "status": "down",
-    "uptime": "17.44%",
-    "uptimeDay": "17.44%",
-    "uptimeWeek": "17.44%",
-    "uptimeMonth": "17.44%",
-    "uptimeYear": "17.44%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
+    "time": 694,
+    "timeDay": 694,
+    "timeWeek": 694,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2021-06-21": 1
+      "2021-06-21": 8
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/atlas-a1.ord.404inc.org",
     "slug": "atlas-a1-ord",
     "status": "down",
-    "uptime": "31.74%",
-    "uptimeDay": "31.74%",
-    "uptimeWeek": "31.74%",
-    "uptimeMonth": "31.74%",
-    "uptimeYear": "31.74%",
-    "time": 3117,
-    "timeDay": 3117,
-    "timeWeek": 3117,
-    "timeMonth": 3117,
-    "timeYear": 3117,
+    "uptime": "2.02%",
+    "uptimeDay": "2.02%",
+    "uptimeWeek": "2.02%",
+    "uptimeMonth": "2.02%",
+    "uptimeYear": "2.02%",
+    "time": 3115,
+    "timeDay": 3115,
+    "timeWeek": 3115,
+    "timeMonth": 3115,
+    "timeYear": 3115,
     "dailyMinutesDown": {
-      "2021-06-21": 0
+      "2021-06-21": 8
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/ganymede-a2.ord.404inc.org",
     "slug": "ganymede-a2-ord",
     "status": "down",
-    "uptime": "47.00%",
-    "uptimeDay": "47.00%",
-    "uptimeWeek": "47.00%",
-    "uptimeMonth": "47.00%",
-    "uptimeYear": "47.00%",
-    "time": 3107,
-    "timeDay": 3107,
-    "timeWeek": 3107,
-    "timeMonth": 3107,
-    "timeYear": 3107,
+    "uptime": "2.15%",
+    "uptimeDay": "2.15%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "2.15%",
+    "uptimeYear": "2.15%",
+    "time": 3106,
+    "timeDay": 3106,
+    "timeWeek": 3106,
+    "timeMonth": 3106,
+    "timeYear": 3106,
     "dailyMinutesDown": {
-      "2021-06-21": 0
+      "2021-06-21": 7
     }
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   }
 ]

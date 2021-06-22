@@ -25,8 +25,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.404inc.org
   #baseUrl: /upptime
-  theme: dark
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #theme: dark
+  themeUrl: https://raw.githubusercontent.com/404incorporated/upptime/master/assets/theme.css
+  logoUrl: https://raw.githubusercontent.com/404incorporated/upptime/master/assets/upptime-icon.svg
   name: 404inc
   introTitle:
   introMessage:

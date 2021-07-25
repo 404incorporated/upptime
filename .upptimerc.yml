@@ -21,14 +21,16 @@ sites:
     url: https://ganymede-b2.ord.404inc.org
 
 status-website:
-  favicon: https://404inc.org/favicon.ico
+  favicon: https://cdn.404inc.org/favicon.ico
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.404inc.org
   #baseUrl: /upptime
   theme: dark
-  css: "@import url('https://raw.githubusercontent.com/404incorporated/upptime/master/assets/theme.css');"
-  logoUrl: https://404inc.org/favicon.ico
+  link:
+    - rel: stylesheet
+      href: https://cdn.404inc.org/status-site/theme.css
+  logoUrl: https://cdn.404inc.org/favicon.ico
   name: Status | 404inc
   introTitle:
   introMessage:

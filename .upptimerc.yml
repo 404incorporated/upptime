@@ -27,15 +27,13 @@ status-website:
   #baseUrl: /upptime
   theme: dark
   #themeUrl: https://raw.githubusercontent.com/404incorporated/upptime/master/assets/theme.css
-  logoUrl: https://raw.githubusercontent.com/404incorporated/upptime/master/assets/upptime-icon.svg
-  name: 404inc
+  logoUrl: https://404inc.org/favicon.ico
+  name: Status | 404inc
   introTitle:
   introMessage:
   navbar:
     - title: 404inc.org
       href: https://404inc.org
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

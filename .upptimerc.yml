@@ -27,6 +27,7 @@ status-website:
   cname: status.404inc.org
   #baseUrl: /upptime
   theme: dark
+  css: "@import url('https://raw.githubusercontent.com/404incorporated/upptime/master/assets/theme.css');"
   logoUrl: https://404inc.org/favicon.ico
   name: Status | 404inc
   introTitle:

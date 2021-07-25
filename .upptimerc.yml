@@ -27,7 +27,7 @@ status-website:
   cname: status.404inc.org
   #baseUrl: /upptime
   theme: dark
-  link:
+  links:
     - rel: stylesheet
       href: https://cdn.404inc.org/status-site/theme.css
   logoUrl: https://cdn.404inc.org/favicon.ico

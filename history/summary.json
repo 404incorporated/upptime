@@ -4,10 +4,10 @@
     "url": "https://404inc.org",
     "icon": "https://favicons.githubusercontent.com/404inc.org",
     "slug": "404ing-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 447,
@@ -16,7 +16,7 @@
     "timeMonth": 434,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2021-07-26": 56
+      "2021-07-26": 57
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/ganymede-a2.boh.404inc.org",
     "slug": "ganymede-a2-boh",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "90.47%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.54%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.54%",
     "time": 523,
     "timeDay": 391,
     "timeWeek": 361,
     "timeMonth": 374,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-07-26": 137,
+      "2021-07-26": 153,
       "2021-07-11": 14,
       "2021-06-21": 62
     }
@@ -138,7 +138,7 @@
     "slug": "ganymede-a2-ord",
     "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "87.73%",
+    "uptimeDay": "88.85%",
     "uptimeWeek": "88.63%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "97.63%",

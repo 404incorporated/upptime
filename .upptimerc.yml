@@ -35,10 +35,8 @@ status-website:
   introTitle:
   introMessage:
   navbar:
-    - title: 404inc.org
+    - title: Back to 404inc.org
       href: https://404inc.org
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -1,7 +1,7 @@
-url: https://ganymede-a2.ord.404inc.org
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2021-11-18T23:10:01.507Z
+url: https://ganymede-a2.ord.404inc.org:8080
+status: down
+code: 401
+responseTime: 188
+lastUpdated: 2021-11-19T05:46:16.816Z
 startTime: Mon Jun 21 2021 22:36:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

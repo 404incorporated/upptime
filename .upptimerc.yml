@@ -12,13 +12,13 @@ sites:
   - name: Ganymede-a2.boh
     url: https://ganymede-a2.boh.404inc.org
   - name: Atlas-a1.ord
-    url: https://atlas-a1.ord.404inc.org
+    url: https://atlas-a1.ord.404inc.org:8080
   - name: Atlas-b1.ord
-    url: https://atlas-b1.ord.404inc.org
+    url: https://atlas-b1.ord.404inc.org:8080
   - name: Ganymede-a2.ord
-    url: https://ganymede-a2.ord.404inc.org
+    url: https://ganymede-a2.ord.404inc.org:8080
   - name: Ganymede-b2.ord
-    url: https://ganymede-b2.ord.404inc.org
+    url: https://ganymede-b2.ord.404inc.org:8080
 
 status-website:
   favicon: https://cdn.404inc.org/favicon.ico

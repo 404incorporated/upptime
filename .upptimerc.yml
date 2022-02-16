@@ -15,10 +15,6 @@ sites:
     url: https://atlas-a1.ord.404inc.org:8080
     expectedStatusCodes:
     - 401
-  - name: Atlas-b1.ord
-    url: https://atlas-b1.ord.404inc.org:8080
-    expectedStatusCodes:
-    - 401
   - name: Ganymede-a2.ord
     url: https://ganymede-a2.ord.404inc.org:8080
     expectedStatusCodes:
